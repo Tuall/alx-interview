@@ -2,11 +2,11 @@ Project Name
 0x02. Minimum Operations
 
 Author's Details
-Name: Wendy Munyasi.
+Name: Akanni Akeem.
 
-Email: wendymunyasi@gmail.com
+Email: acanite01@gmail.com
 
-Tel: +254707240068.
+Tel: +2347032496387.
 
 Requirements
 Python Scripts
